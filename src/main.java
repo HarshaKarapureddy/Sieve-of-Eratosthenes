@@ -4,7 +4,6 @@
  */
 
 // Author: Harsha Karapureddy
-// Course: CS 3345.503 - Data Structures and Introduction to Algorithmic Analysis - F24
 // Program to compute all prime numbers up to a given integer using the Sieve of Eratosthenes.
 
 import java.util.Scanner;
